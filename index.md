@@ -2,4 +2,4 @@
 
 Tutaj przechowywane są publiczne pliki statyczne takie jak regulaminy czy większe obrazki.
 
-[docs](Dokumenty)
+[Dokumenty](docs)
